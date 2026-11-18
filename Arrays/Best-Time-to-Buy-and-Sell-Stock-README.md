@@ -5,8 +5,8 @@
 - **Difficulty:** Easy
 - **Language:** C++
 - **Status:** Verified Accepted on MyDesk
-- **Runtime:** 0.0310s
-- **Memory:** 7620 KB
+- **Runtime:** 0.0309s
+- **Memory:** 7484 KB
 - **Date Verified:** Nov 18, 2026
 
 ---
